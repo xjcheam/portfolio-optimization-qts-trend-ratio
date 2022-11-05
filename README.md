@@ -1,3 +1,12 @@
+# Table of Contents
+1. [Introduction](#introduction)
+    1. [Supported Stock Combinations](#supported-stock-combinations)
+2. [How to use the code](#how-to-use-the-code)
+    1. [Dependencies](#dependencies)
+    2. [config.py](#configpy)
+    3. [Guide](#guide)
+3. [References](#references)
+
 # Introduction
 [This paper](https://ieeexplore.ieee.org/document/8616267) proposed to use Quantum-inspired Tabu Search algorithm improved by the quantum-not-gate (GNQTS) and trend ratio to approache portfolio optimization problem.
 
@@ -59,5 +68,5 @@ However, the source of data and the stocks combinations to choose from might be 
    > python main.py
 ```
 
-# Reference
+# References
 1. Y. -C. Jiang, X. J. Cheam, C. -Y. Chen, S. -Y. Kuo and Y. -H. Chou, "A Novel Portfolio Optimization with Short Selling Using GNQTS and Trend Ratio," 2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2018, pp. 1564-1569, doi: 10.1109/SMC.2018.00271.
