@@ -67,6 +67,7 @@ However, the source of data and the stocks combinations to choose from might be 
 ```python
    > python main.py
 ```
+\* Users do not require to download stock price manually. When the code is executed, it automatically acquire stock data according to details in config.py.
 
 # References
 1. Y. -C. Jiang, X. J. Cheam, C. -Y. Chen, S. -Y. Kuo and Y. -H. Chou, "A Novel Portfolio Optimization with Short Selling Using GNQTS and Trend Ratio," 2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2018, pp. 1564-1569, doi: 10.1109/SMC.2018.00271.
